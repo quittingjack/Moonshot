@@ -1,0 +1,2 @@
+Sprites/Planet/ https://helianthus-games.itch.io/pixel-art-planets
+WeaponEffect AssetStore-"Unity Particle Pack"
